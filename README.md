@@ -54,7 +54,7 @@ Every generated claim is clearly labelled as:
 ---
 
 ## Architecture
-
+![alt text](image.png)
 ```
 User Browser
      │
@@ -356,3 +356,6 @@ The generated blueprint covers all 18 sections:
 ---
 
 *Built as an internship project demonstrating IBM Granite LLM integration with RAG for practical startup advisory applications.*
+
+
+demo link: http://localhost:8000
