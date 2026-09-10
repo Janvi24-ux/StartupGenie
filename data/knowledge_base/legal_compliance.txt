@@ -1,0 +1,152 @@
+LEGAL AND COMPLIANCE FOR STARTUPS IN INDIA – KNOWLEDGE BASE
+=============================================================
+
+## Business Structure Options
+
+### Private Limited Company (Pvt Ltd)
+- Most preferred structure for funded startups.
+- Governed by the Companies Act, 2013.
+- Requires minimum 2 directors and 2 shareholders; max 200 shareholders.
+- Registered with Ministry of Corporate Affairs (MCA) via SPICe+ form.
+- Mandatory annual filings: MCA Annual Return (MGT-7), Financial Statements (AOC-4), Auditor Appointment (ADT-1).
+- Mandatory audits required regardless of turnover.
+- Foreign investment (FDI) is permitted under automatic route for most sectors.
+- Suitable for: VC-funded startups, products requiring IP protection.
+
+### Limited Liability Partnership (LLP)
+- Governed by the LLP Act, 2008.
+- No restriction on maximum partners.
+- Less compliance burden than Pvt Ltd.
+- Foreign investment is possible but requires RBI approval (not automatic route).
+- Annual filings: Form 8 (Statement of Account & Solvency), Form 11 (Annual Return).
+- Suitable for: Professional services, consulting, bootstrapped startups.
+
+### One Person Company (OPC)
+- Governed by Companies Act, 2013.
+- Single founder can incorporate.
+- Must convert to Pvt Ltd when paid-up capital exceeds INR 50 lakh or turnover exceeds INR 2 crore.
+- Suitable for: Solo founders, freelancers scaling up.
+
+### Sole Proprietorship / Partnership
+- No separate legal entity.
+- Unlimited personal liability.
+- Not suitable for funded or high-growth startups.
+
+## Step-by-Step Company Incorporation (Pvt Ltd)
+
+1. Obtain Digital Signature Certificate (DSC) for all proposed directors.
+2. Apply for Director Identification Number (DIN) through MCA portal.
+3. Reserve company name via RUN (Reserve Unique Name) service on MCA.
+4. File SPICe+ (Simplified Proforma for Incorporating Company Electronically) form:
+   - Includes PAN, TAN, EPFO, ESIC, Bank Account opening, GST registration (optional).
+5. Prepare and file Memorandum of Association (MoA) and Articles of Association (AoA).
+6. Receive Certificate of Incorporation (CoI) from Registrar of Companies (RoC).
+7. Apply for PAN and TAN of the company.
+8. Open a company bank account with the CoI and PAN.
+
+## Key Registrations Required
+
+### GST (Goods and Services Tax)
+- Mandatory if annual turnover exceeds INR 40 lakh (goods) or INR 20 lakh (services); INR 10 lakh for special category states.
+- E-commerce operators must register regardless of turnover.
+- Filing: GSTR-1 (monthly/quarterly), GSTR-3B (monthly), GSTR-9 (annual).
+- GST Rate varies: 0%, 5%, 12%, 18%, 28% depending on product/service.
+
+### PAN (Permanent Account Number)
+- Mandatory for all companies; apply through NSDL/UTIITSL.
+
+### TAN (Tax Deduction Account Number)
+- Mandatory for deducting TDS on salaries, vendor payments, rent.
+
+### MSME / Udyam Registration
+- Optional but provides access to government schemes, priority lending, and protection from delayed payments.
+- Register at udyamregistration.gov.in.
+
+### Shop and Establishment Registration
+- Required by most states for any commercial premises.
+- Apply with the local municipal authority within 30 days of starting business.
+
+### Professional Tax Registration
+- Applicable in states like Maharashtra, Karnataka, West Bengal, Andhra Pradesh, Tamil Nadu.
+- Employer deducts professional tax from employee salaries.
+
+### ESIC (Employee State Insurance Corporation)
+- Mandatory if employing 10+ employees.
+- Employer contribution: 3.25%, Employee contribution: 0.75% of wages.
+
+### EPF (Employee Provident Fund)
+- Mandatory if employing 20+ employees.
+- Employer contribution: 12%, Employee contribution: 12% of basic salary.
+
+## Intellectual Property (IP) Protection
+
+### Trademark
+- Register your brand name/logo with the Trademark Registry (ipindia.gov.in).
+- Time taken: 18–24 months.
+- Fee: INR 4,500 (e-filing, individuals/startups); INR 9,000 (others) per class.
+- Protects for 10 years, renewable.
+
+### Patent
+- Protects novel inventions for 20 years.
+- File with Indian Patent Office (ipindia.gov.in).
+- DPIIT-recognised startups get 80% rebate on patent filing fees.
+- Fast-track examination available for startups.
+- Time to grant: 2–5 years typically.
+
+### Copyright
+- Automatic upon creation; registration is optional but recommended.
+- Register at copyright.gov.in.
+- Protects software code, creative works, designs.
+
+### Design Registration
+- Protects the visual appearance of a product under the Designs Act, 2000.
+- Valid for 10 years, extendable by 5 years.
+
+## Key Contracts and Legal Documents
+
+### Founders Agreement
+- Defines roles, responsibilities, equity split, vesting, decision-making rights.
+- Should be signed before incorporating.
+- Includes IP assignment clause – all IP created by founders is assigned to the company.
+
+### Employee Stock Option Plan (ESOP)
+- Must be approved by board and shareholders.
+- SEBI guidelines for listed companies; Companies Act for unlisted.
+- Vesting typically over 4 years with 1-year cliff.
+- Tax event occurs at exercise (perquisite tax) and at sale (capital gains).
+
+### Non-Disclosure Agreement (NDA)
+- Use before sharing sensitive business information with potential partners, employees, investors.
+
+### Shareholder Agreement (SHA)
+- Signed between all shareholders; governs rights, transfer restrictions, drag-along, tag-along.
+
+### Term Sheet
+- Non-binding agreement outlining key terms of an investment round.
+
+### Employment Agreement
+- Mandatory for all full-time employees.
+- Must include: designation, CTC, notice period, confidentiality, IP assignment, non-compete.
+
+## Data Privacy and Cybersecurity
+
+### Information Technology Act, 2000
+- Section 43A: Compensation for failure to protect sensitive personal data.
+- Section 72A: Punishment for disclosure of information in breach of contract.
+
+### Digital Personal Data Protection Act, 2023 (DPDPA)
+- India's comprehensive data protection law (aligned with GDPR principles).
+- Requires: consent for data processing, data minimisation, right to erasure.
+- Designate a Data Protection Officer (DPO) if processing large-scale sensitive data.
+
+## Annual Compliance Calendar (Pvt Ltd)
+
+| Month        | Compliance Activity                                              |
+|--------------|------------------------------------------------------------------|
+| April        | TDS returns for Q4 (previous year); Advance Tax 1st instalment  |
+| June         | Advance Tax 2nd instalment                                       |
+| July         | Income Tax return filing (extended deadline possible)            |
+| September    | Advance Tax 3rd instalment; AGM (within 6 months of FY end)     |
+| October      | Board meeting (within 60 days of AGM)                            |
+| December     | Advance Tax 4th instalment; ROC Annual Return filing             |
+| Ongoing      | Monthly GST returns (GSTR-1, GSTR-3B), TDS deduction & payment  |

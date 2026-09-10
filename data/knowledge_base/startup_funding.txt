@@ -1,0 +1,109 @@
+STARTUP FUNDING – COMPREHENSIVE KNOWLEDGE BASE
+================================================
+
+## Startup Funding Stages
+
+### Pre-Seed Stage
+- Definition: The earliest stage of funding where founders use personal savings, family, and friends to validate an idea.
+- Typical Amount: INR 5 lakh – INR 50 lakh (USD 5,000 – USD 100,000)
+- Purpose: Idea validation, market research, building a prototype.
+- Sources: Personal savings (Bootstrapping), Friends & Family, Angel investors, Incubators.
+
+### Seed Stage
+- Definition: First formal round of funding to scale operations after product-market fit is found.
+- Typical Amount: INR 50 lakh – INR 5 crore (USD 100,000 – USD 2 million)
+- Purpose: Hiring initial team, product development, initial marketing.
+- Sources: Angel investors, Seed VCs, Accelerators (Y Combinator, Techstars), Government seed funds.
+
+### Series A
+- Definition: First significant round of institutional VC funding.
+- Typical Amount: INR 5 crore – INR 50 crore (USD 2 million – USD 15 million)
+- Purpose: Proven business model, scaling operations, entering new markets.
+- Sources: Venture Capital firms, Corporate VCs.
+
+### Series B
+- Definition: Scaling a proven business model further.
+- Typical Amount: INR 50 crore – INR 200 crore (USD 15 million – USD 50 million)
+- Purpose: Market expansion, building team, scaling technology.
+- Sources: Larger VC firms, Private Equity.
+
+### Series C and Beyond
+- Definition: Late-stage funding for mature startups looking to scale significantly or prepare for IPO.
+- Typical Amount: INR 200 crore+ (USD 50 million+)
+- Sources: Private Equity, Hedge Funds, Investment Banks.
+
+### IPO (Initial Public Offering)
+- Definition: Startup lists on a stock exchange (NSE/BSE in India) to raise capital from public.
+
+## Types of Investors
+
+### Angel Investors
+- High-net-worth individuals investing personal capital in early-stage startups.
+- Typical investment: INR 25 lakh – INR 2 crore.
+- Networks: Indian Angel Network (IAN), Mumbai Angels, LetsVenture, AngelList India.
+- Expect equity stake of 5–20% at pre-seed/seed stage.
+
+### Venture Capital Firms (India)
+- Sequoia Capital India (now Peak XV Partners)
+- Accel Partners
+- Nexus Venture Partners
+- Kalaari Capital
+- Lightspeed Venture Partners India
+- Matrix Partners India
+- Blume Ventures (seed-stage focused)
+- 3one4 Capital
+- Stellaris Venture Partners
+- SAIF Partners (Elevation Capital)
+
+### Corporate VCs and Strategic Investors
+- Tata Capital Innovation Fund
+- Wipro Ventures
+- Qualcomm Ventures
+- Samsung NEXT
+- Google for Startups
+
+### Government Funds
+- Fund of Funds for Startups (FFS): INR 10,000 crore corpus managed by SIDBI.
+- SIDBI Venture Capital: Invests in early and growth stage startups.
+- National Investment and Infrastructure Fund (NIIF): Long-term equity investments.
+
+## Funding Instruments
+
+### Equity
+- Common Stock: Founders hold this; dilutes with every round.
+- Preferred Stock: Investor-held; has liquidation preference and anti-dilution protections.
+
+### Convertible Instruments
+- Convertible Notes: Debt that converts to equity at next round, often with a discount (typically 20%) and a valuation cap.
+- SAFE (Simple Agreement for Future Equity): Common in US; gaining traction in India.
+- Compulsorily Convertible Preference Shares (CCPS): Most common in India for VC deals.
+
+### Debt Financing
+- Revenue-Based Financing (RBF): Repay from monthly revenue, typically 1–3x capital.
+- Venture Debt: Debt funding for VC-backed startups; Trifecta Capital, Innoven Capital, Alteria Capital are key players.
+
+## Valuation Methods for Startups
+- Berkus Method: Assigns value to 5 key success factors (max $500K each in early stage).
+- Scorecard Valuation: Compares startup to funded peers on multiple dimensions.
+- Discounted Cash Flow (DCF): Projects future cash flows and discounts to present value (more applicable for later-stage).
+- Revenue Multiple: Typical SaaS multiples range from 5x–15x ARR at Series A.
+- Market Multiple: Valuation based on comparable company transactions.
+
+## Key Terms in Term Sheets
+- Valuation Cap: Maximum valuation at which notes convert to equity.
+- Discount Rate: Discount on next round price for convertible note holders (typically 15–25%).
+- Liquidation Preference: Investor gets back investment before founders in an exit.
+- Pro-rata Rights: Right to invest in future rounds to maintain ownership percentage.
+- Anti-dilution Provisions: Protects investors from valuation drops in subsequent rounds.
+- Vesting Schedule: Typical 4-year vesting with 1-year cliff for founders and employees.
+
+## Pitch Deck Essentials
+1. Problem – What pain point are you solving?
+2. Solution – How do you solve it uniquely?
+3. Market Size – TAM, SAM, SOM analysis.
+4. Product – Demo, screenshots, key features.
+5. Business Model – How you make money.
+6. Traction – Revenue, users, growth metrics.
+7. Team – Why this team can execute.
+8. Financials – 3-year projections.
+9. Ask – How much are you raising and how will you use it?

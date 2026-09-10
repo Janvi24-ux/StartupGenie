@@ -1,0 +1,113 @@
+INCUBATORS AND ACCELERATORS IN INDIA – KNOWLEDGE BASE
+========================================================
+
+## What is an Incubator?
+An incubator provides long-term support (typically 1–5 years) to early-stage startups including office space, mentorship, networking, and sometimes seed funding. They are ideal for idea-stage or pre-revenue startups.
+
+## What is an Accelerator?
+An accelerator is a fixed-term (typically 3–6 months), cohort-based program that provides seed investment, mentorship, and connections in exchange for a small equity stake (typically 2–10%). Designed for startups that already have a prototype or early traction.
+
+## Top Accelerators in India
+
+### Y Combinator (Global, accepts India)
+- Provides USD 500,000 in funding (USD 125,000 for 7% + USD 375,000 on MFN SAFE).
+- 3-month program culminating in Demo Day.
+- Notable India alumni: Meesho, Razorpay, ClearTax, Unacademy.
+- Application: twice a year (S and W batches).
+
+### T-Hub (Hyderabad, Telangana)
+- India's largest startup incubator by space.
+- Backed by Government of Telangana, IIIT-H, ISB, NALSAR.
+- Programs: BootCamp, Scale, NEST (social entrepreneurs), Global Acceleration.
+- Hosts 1,500+ startups.
+
+### iCreate (Ahmedabad, Gujarat)
+- International Centre for Entrepreneurship and Technology.
+- Supported by Government of Gujarat.
+- Sector-agnostic; strong in deep tech, clean energy.
+- Provides prototyping labs, international exposure.
+
+### NSRCEL (IIM Bangalore)
+- N.S. Raghavan Centre for Entrepreneurial Learning.
+- Backed by IIM Bangalore.
+- Programs: Goldman Sachs 10KW (women entrepreneurs), NSRCEL Incubation.
+- Strong mentorship and alumni network.
+
+### IIT Madras Research Park (IITMRP)
+- Over 250+ companies.
+- Strong focus on deep tech, hardware, manufacturing.
+- Access to IIT Madras faculty and research labs.
+- NITI Aayog Atal Incubation Centre (AIC).
+
+### CIIE.CO (IIM Ahmedabad)
+- Centre for Innovation Incubation and Entrepreneurship.
+- India's premier incubator for sustainable and social ventures.
+- Programs: Bharat Inclusion Initiative (fintech), Enactus, CIIE Incubation.
+- Strong focus on climate tech, fintech, agritech.
+
+### Startup Village (Kerala)
+- Asia's first telecom incubator.
+- Backed by Kerala Startup Mission (KSUM).
+- Strong hardware and IoT focus.
+- Provides 24x7 co-working, prototyping labs, seed funding up to INR 10 lakh.
+
+### Nasscom 10,000 Startups
+- One of India's largest startup programs.
+- 10,000 startups supported across 8 hubs.
+- Provides co-working, mentorship, investor connections, product launch support.
+- Strong SaaS and enterprise tech focus.
+
+### Microsoft for Startups
+- 3-month program with Azure credits (up to USD 120,000), technical support, market access.
+- Available pan-India, no equity taken.
+- Strong cloud, AI, enterprise software focus.
+
+### Google for Startups Accelerator India
+- 3-month equity-free acceleration program.
+- Provides USD 200,000 in Google Cloud credits, mentorship from Google engineers.
+- Focus on AI/ML, sustainability, women-led startups.
+- Applications twice a year.
+
+### AWS Activate
+- Provides up to USD 100,000 in AWS credits.
+- Available to early-stage startups.
+- Access to AWS experts, technical training, partner network.
+
+## Government-Backed Incubators (Atal Innovation Mission)
+- Atal Incubation Centres (AIC): NITI Aayog funds 25+ AICs across India.
+- Each AIC receives up to INR 10 crore over 5 years.
+- Located in premier institutions (IITs, NITs, IIMs, central universities).
+
+## Sector-Specific Incubators
+
+### AgriTech
+- MANAGE (Hyderabad): National Academy of Agricultural Research Management.
+- AIC-MANAGE: INR 10 crore AIM-funded incubator for agri startups.
+- IARI (New Delhi): Indian Agricultural Research Institute.
+
+### HealthTech / MedTech
+- Centre for Cellular and Molecular Platforms (C-CAMP), Bengaluru.
+- AMTZ (Andhra Pradesh MedTech Zone), Visakhapatnam.
+- BIRAC (Biotechnology Industry Research Assistance Council) – Bioincubation programme.
+
+### EdTech
+- SocialAlpha – focuses on social impact EdTech.
+- FICCI FLO Incubation – women-led EdTech startups.
+
+### FinTech
+- IFINA (International Financial Services Centres Authority) – GIFT City, Gujarat.
+- iSPIRT – industry think-tank for FinTech policy and community.
+
+### CleanTech / GreenTech
+- GERMI (Gujarat Energy Research and Management Institute).
+- TERI (The Energy and Resources Institute) – incubation for clean energy startups.
+- Villgro Innovations Foundation – rural social enterprise focus.
+
+## Accelerators with Equity Investment (India)
+| Accelerator         | Equity Taken | Funding Provided           | Batch Duration |
+|---------------------|--------------|----------------------------|----------------|
+| Axilor Ventures     | 2–5%         | INR 20 lakh                | 100 days       |
+| Venture Catalysts   | 5–10%        | USD 100K–500K              | Ongoing        |
+| 100X.VC             | 1% CCPS      | INR 25 lakh                | 6 months       |
+| Titan Capital       | Varies       | USD 250K–2M                | Varies         |
+| IAN Fund            | 10–25%       | INR 25 lakh – 5 crore      | Varies         |

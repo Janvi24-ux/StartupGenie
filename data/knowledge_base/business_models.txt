@@ -1,0 +1,168 @@
+BUSINESS MODELS AND MARKET RESEARCH – KNOWLEDGE BASE
+======================================================
+
+## Business Model Canvas (9 Building Blocks)
+
+### 1. Customer Segments
+- Who are you creating value for?
+- Mass Market, Niche Market, Segmented, Diversified, Multi-sided Platform.
+- B2B (Business-to-Business): Target companies; longer sales cycles, higher deal values.
+- B2C (Business-to-Consumer): Target individuals; shorter cycles, higher volume, brand-driven.
+- B2B2C: Sell to businesses who serve consumers (e.g., SaaS for retailers).
+- D2C (Direct-to-Consumer): Cut intermediaries; higher margin, direct relationship.
+
+### 2. Value Propositions
+- What value do you deliver to the customer?
+- Newness, Performance, Customisation, "Getting the Job Done", Design, Brand/Status.
+- Price, Cost Reduction, Risk Reduction, Accessibility, Convenience/Usability.
+
+### 3. Channels
+- How do you reach customers?
+- Awareness, Evaluation, Purchase, Delivery, After Sales.
+- Direct: Own website, sales team, physical stores.
+- Indirect: Partners, distributors, resellers, marketplaces (Amazon, Flipkart).
+
+### 4. Customer Relationships
+- What type of relationship does each segment expect?
+- Personal Assistance, Dedicated Personal Assistance, Self-Service, Automated Services.
+- Communities, Co-creation.
+
+### 5. Revenue Streams
+- For what value are customers willing to pay?
+- Asset Sale, Usage Fee, Subscription, Lending/Renting/Leasing.
+- Licensing, Brokerage Fee, Advertising.
+
+### 6. Key Resources
+- Physical, Intellectual, Human, Financial.
+
+### 7. Key Activities
+- Production, Problem Solving, Platform/Network.
+
+### 8. Key Partnerships
+- Buyers-Suppliers, Joint Ventures, Strategic Alliances, Co-opetition.
+- Reasons: Optimisation and economy of scale, Reduction of risk, Acquisition of resources.
+
+### 9. Cost Structure
+- Cost-Driven vs Value-Driven.
+- Fixed Costs: Rent, salaries, server costs.
+- Variable Costs: Raw materials, commissions.
+- Economies of Scale, Economies of Scope.
+
+## Revenue Model Patterns
+
+### SaaS (Software as a Service)
+- Monthly/Annual Recurring Revenue (MRR/ARR).
+- Tiered pricing: Freemium → Basic → Pro → Enterprise.
+- Key metrics: MRR, ARR, Churn Rate, Customer Lifetime Value (LTV), Customer Acquisition Cost (CAC), LTV/CAC ratio (target 3:1).
+
+### Marketplace / Platform
+- Take-rate (commission) on transactions; typically 5–30%.
+- Examples: Swiggy (food delivery), Urban Company (home services).
+- Key metrics: GMV, Take-rate, Number of active buyers, Number of active sellers.
+
+### E-Commerce / D2C
+- Margin on products sold.
+- Key metrics: Revenue per order, Return rate, Repeat purchase rate, Average Order Value (AOV).
+
+### Subscription Box
+- Fixed monthly/quarterly fee.
+- Key metrics: Subscriber count, Churn, Box margin.
+
+### Freemium
+- Core product free; charge for premium features.
+- Examples: Spotify, Dropbox, Notion.
+- Key metrics: Free-to-paid conversion rate (industry average: 2–5%).
+
+### Licensing
+- License technology/IP to third parties.
+- Upfront license fee + ongoing royalties.
+
+### Advertising
+- Free product/service; revenue from advertisers.
+- Key metrics: Monthly Active Users (MAU), Daily Active Users (DAU), CPM, CPC.
+
+### Asset-Heavy / CapEx Model
+- Requires significant physical assets.
+- Examples: Manufacturing, logistics, real estate.
+
+## Market Sizing Framework
+
+### TAM (Total Addressable Market)
+- The total revenue opportunity if you captured 100% of the market.
+- Calculate: (Number of potential customers) × (Annual revenue per customer).
+
+### SAM (Serviceable Addressable Market)
+- Portion of TAM targeted by your product/service given geography, segment focus.
+
+### SOM (Serviceable Obtainable Market)
+- Realistic market share you can capture in the short term (1–3 years).
+- Typically 1–5% of SAM for an early-stage startup.
+
+## Competitive Analysis Frameworks
+
+### Porter's Five Forces
+1. Threat of new entrants (barriers to entry).
+2. Bargaining power of suppliers.
+3. Bargaining power of buyers.
+4. Threat of substitute products.
+5. Competitive rivalry within the industry.
+
+### SWOT Analysis
+- Strengths (internal), Weaknesses (internal), Opportunities (external), Threats (external).
+
+### Competitive Positioning Matrix
+- Plot competitors on axes (e.g., Price vs Quality, Features vs Simplicity).
+- Identify whitespace (underserved segment).
+
+## Unit Economics
+
+### Customer Acquisition Cost (CAC)
+- Total Sales & Marketing spend / Number of new customers acquired.
+- Benchmark: Depends on industry; for SaaS, target CAC payback < 12 months.
+
+### Customer Lifetime Value (LTV or CLV)
+- LTV = (Average revenue per user × Gross margin) / Churn rate.
+- Target LTV:CAC ratio of at least 3:1.
+
+### Burn Rate
+- Monthly cash outflow from operations.
+- Runway = Cash in bank / Monthly burn rate.
+- Target runway: 18–24 months post-funding.
+
+### Gross Margin
+- (Revenue - COGS) / Revenue × 100%.
+- SaaS: 70–90%; E-commerce: 30–50%; Marketplace: 60–80%.
+
+## Go-To-Market (GTM) Strategy
+
+### Inbound Marketing
+- Content marketing, SEO, social media.
+- Lower CAC; takes 6–18 months to build momentum.
+
+### Outbound Marketing
+- Cold email, cold calling, paid ads (Google, Meta, LinkedIn).
+- Faster results; higher CAC.
+
+### Product-Led Growth (PLG)
+- Product itself drives user acquisition (freemium, viral loops).
+- Examples: Zoom, Slack, Figma.
+- Key metric: Virality coefficient (k-factor > 1 means viral growth).
+
+### Partnership-Led Growth
+- Channel partners, OEMs, resellers.
+- Suitable for enterprise B2B.
+
+### Community-Led Growth
+- Build a community around the product.
+- Lower CAC; high retention; brand moat.
+
+## Key India-Specific Market Data (2024 Estimates)
+- Internet users: 900 million+
+- Smartphone users: 700 million+
+- Digital payment users (UPI): 400 million+
+- E-commerce market: USD 70 billion (growing at 25% YoY)
+- SaaS market: USD 25 billion (growing at 30% YoY)
+- EdTech market: USD 7.5 billion
+- FinTech market: USD 31 billion (2nd largest globally)
+- HealthTech market: USD 4 billion (growing at 39% YoY)
+- AgriTech market: USD 24 billion (opportunity by 2025)

@@ -1,0 +1,57 @@
+STARTUP INDIA SCHEME – KNOWLEDGE BASE
+======================================
+
+## Overview
+Startup India is a flagship initiative of the Government of India intended to catalyse startup culture and build a strong and inclusive ecosystem for innovation and entrepreneurship in India. Launched on 16 January 2016, the initiative has fostered the development of the startup ecosystem in India.
+
+## Eligibility Criteria
+- The entity must be incorporated as a Private Limited Company, Registered Partnership Firm, or Limited Liability Partnership (LLP).
+- The startup must not be more than 10 years old from the date of incorporation.
+- Annual turnover must not exceed INR 100 crore in any preceding financial year.
+- The startup must be working towards innovation, development, or improvement of products, processes or services.
+- The startup must have a scalable business model with high potential for employment generation or wealth creation.
+
+## Key Benefits
+1. Tax Exemption under Section 80-IAC: Income tax exemption for 3 consecutive years out of 10 years since incorporation (applicable to eligible startups).
+2. Tax Exemption under Section 56: Exemption from tax on investments above fair market value.
+3. Self-Certification: Startups can self-certify compliance with 6 labour laws and 3 environmental laws.
+4. Patent Application Fast-tracking: 80% rebate on patent filing fees; fast-track examination of patent applications.
+5. Easy Exit: Startups can wind up operations within 90 days under the Insolvency and Bankruptcy Code.
+6. Fund of Funds: Government has set up a Fund of Funds (FFS) of INR 10,000 crore, managed by SIDBI to provide equity funding support.
+7. Startup India Seed Fund Scheme: INR 945 crore scheme to provide seed funding to early-stage startups.
+8. Credit Guarantee Scheme: Collateral-free debt of up to INR 10 crore for eligible startups.
+
+## Registration Process
+1. Register on the Startup India portal (startupindia.gov.in).
+2. Upload the Certificate of Incorporation / Registration.
+3. Provide a brief about the nature of business and how it is working towards innovation.
+4. The application is reviewed by DPIIT (Department for Promotion of Industry and Internal Trade).
+5. Upon approval, receive a DPIIT recognition certificate and a unique recognition number.
+
+## Startup India Seed Fund Scheme (SISFS)
+- Objective: Provide financial assistance to startups for proof of concept, prototype development, product trials, market entry, and commercialisation.
+- Grant Amount: Up to INR 20 lakh for proof of concept, prototype development, or product trials (as grants).
+- Investment: Up to INR 50 lakh for market entry, commercialisation, or scaling up (through convertible debentures or debt-linked instruments).
+- Eligibility: DPIIT-recognised startup, not more than 2 years old at the time of application.
+
+## Atal Innovation Mission (AIM)
+- Atal Incubation Centres (AICs): Funding of up to INR 10 crore to establish world-class incubators.
+- Atal Tinkering Labs (ATLs): Grants of INR 20 lakh per school to foster a culture of innovation.
+- ARISE (Atal Research and Innovation for Science and Technology): Funding for R&D in MSME sector.
+
+## MSME Schemes Related to Startups
+- MUDRA Loans: Micro Units Development and Refinance Agency (MUDRA) provides loans up to INR 10 lakh under Shishu (up to INR 50,000), Kishor (INR 50,001 to INR 5 lakh), and Tarun (INR 5 lakh to INR 10 lakh) categories.
+- CGTMSE: Credit Guarantee Fund Trust for Micro and Small Enterprises – collateral-free loans.
+- Technology Upgradation Fund Scheme (TUFS): Subsidised loans for technology upgradation.
+- Zero Defect Zero Effect (ZED): Certification to promote quality and adoption of sustainable manufacturing practices.
+
+## State-Level Startup Policies
+- Most Indian states have their own startup policies offering additional incentives.
+- States like Karnataka (KSBDC), Maharashtra (Maharashtra State Innovation Society), Telangana (T-Hub), and Kerala (Kerala Startup Mission) have dedicated startup ecosystems.
+- Incentives typically include: office space subsidies, seed funding, mentorship, tax exemptions at state level, power tariff concessions.
+
+## Key Contacts and Resources
+- DPIIT: Department for Promotion of Industry and Internal Trade
+- SIDBI: Small Industries Development Bank of India
+- Portal: startupindia.gov.in
+- National Startup Awards: Annual awards recognising outstanding startups.

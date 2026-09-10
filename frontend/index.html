@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>StartupGenie – AI Startup Blueprint Generator</title>
+  <meta name="description" content="Transform your startup idea into a structured, actionable blueprint using IBM Granite AI and RAG." />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+<!-- ── Header ─────────────────────────────────────────── -->
+<header>
+  <div class="header-inner">
+    <a href="/" class="logo">
+      <div class="logo-icon">🚀</div>
+      StartupGenie
+    </a>
+    <div style="display:flex;align-items:center;gap:8px;">
+      <span class="badge">IBM Granite</span>
+      <span class="badge" style="border-color:#7c3aed;color:#a78bfa;background:rgba(124,58,237,0.1)">RAG</span>
+    </div>
+  </div>
+</header>
+
+<!-- ── Hero ──────────────────────────────────────────── -->
+<section class="hero">
+  <h1>AI Startup Blueprint Generator</h1>
+  <p>Transform your raw startup idea into a structured, actionable blueprint — powered by IBM Granite LLM and Retrieval-Augmented Generation.</p>
+  <div class="tech-stack">
+    <div class="tech-chip ibm">🤖 IBM Granite LLM</div>
+    <div class="tech-chip rag">🔎 RAG Knowledge Base</div>
+    <div class="tech-chip">⚡ FastAPI Backend</div>
+    <div class="tech-chip">📚 5 Knowledge Sources</div>
+  </div>
+</section>
+
+<!-- ── Main Layout ────────────────────────────────────── -->
+<div class="main-layout">
+
+  <!-- ── Left: Input Form ──── -->
+  <div>
+    <div class="card">
+      <div class="card-header">
+        <div class="icon icon-blue">📝</div>
+        <h2>Startup Details</h2>
+      </div>
+      <div class="card-body">
+        <form id="startup-form" novalidate>
+
+          <div class="form-group">
+            <label for="idea">Startup Idea <span style="color:var(--error)">*</span></label>
+            <textarea
+              id="idea"
+              name="idea"
+              placeholder="Describe your startup idea in detail. What problem does it solve? What makes it unique?"
+              required
+            ></textarea>
+          </div>
+
+          <div class="form-group">
+            <label for="industry">Industry / Sector <span style="color:var(--error)">*</span></label>
+            <select id="industry" name="industry" required>
+              <option value="">Select industry...</option>
+              <option>AgriTech</option>
+              <option>EdTech</option>
+              <option>FinTech</option>
+              <option>HealthTech / MedTech</option>
+              <option>CleanTech / GreenTech</option>
+              <option>E-Commerce / D2C</option>
+              <option>SaaS / Enterprise Software</option>
+              <option>AI / ML</option>
+              <option>Logistics / Supply Chain</option>
+              <option>HR Tech</option>
+              <option>LegalTech</option>
+              <option>PropTech / Real Estate</option>
+              <option>FoodTech</option>
+              <option>TravelTech</option>
+              <option>Retail Tech</option>
+              <option>Cybersecurity</option>
+              <option>Gaming / Entertainment</option>
+              <option>Social Impact / NGO</option>
+              <option>Other</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="target_customer">Target Customer <span style="color:var(--error)">*</span></label>
+            <textarea
+              id="target_customer"
+              name="target_customer"
+              placeholder="Describe your primary target customer. Include demographics, pain points, and behaviour."
+              style="min-height:70px;"
+              required
+            ></textarea>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="location">Location / Country</label>
+              <input
+                type="text"
+                id="location"
+                name="location"
+                placeholder="e.g. India, USA, UK"
+                value="India"
+              />
+            </div>
+            <div class="form-group">
+              <label for="budget">Available Budget <span style="color:var(--error)">*</span></label>
+              <input
+                type="text"
+                id="budget"
+                name="budget"
+                placeholder="e.g. INR 10 lakh"
+                required
+              />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="stage">Startup Stage</label>
+            <select id="stage" name="stage">
+              <option value="Idea Stage">💡 Idea Stage</option>
+              <option value="MVP Stage">🔧 MVP Stage</option>
+              <option value="Early Traction">📈 Early Traction</option>
+              <option value="Growth Stage">🚀 Growth Stage</option>
+              <option value="Scale Stage">⚡ Scale Stage</option>
+            </select>
+          </div>
+
+          <div id="error-state" class="error-state">
+            <span id="error-msg"></span>
+          </div>
+
+          <button type="submit" id="generate-btn" class="btn-generate">
+            <span>🚀</span>
+            <span class="btn-text">Generate Blueprint</span>
+          </button>
+
+        </form>
+      </div>
+    </div>
+
+    <!-- ── RAG Context Panel ── -->
+    <div class="card" style="margin-top:20px;" id="rag-panel">
+      <div class="card-header">
+        <div class="icon icon-teal">🔎</div>
+        <h2>RAG Knowledge Base</h2>
+        <span id="rag-count" class="badge" style="margin-left:auto;">0</span>
+      </div>
+      <div class="card-body">
+        <div id="rag-context-list">
+          <p style="color:var(--muted);font-size:0.85rem;">Retrieved context will appear here after generation.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Right: Output ──── -->
+  <div>
+
+    <!-- Loading State -->
+    <div id="loading-state" class="card loading-state">
+      <div class="spinner"></div>
+      <div style="font-size:0.95rem;font-weight:600;color:var(--text)">Generating your blueprint...</div>
+      <div class="loading-steps" id="loading-steps"></div>
+      <div style="font-size:0.8rem;color:var(--muted);max-width:280px;text-align:center;">
+        IBM Granite is analysing your idea and crafting a comprehensive startup blueprint. This may take 30–60 seconds.
+      </div>
+    </div>
+
+    <!-- Empty State -->
+    <div id="empty-state" class="card empty-state">
+      <div class="empty-icon">📋</div>
+      <h3>Your Blueprint Will Appear Here</h3>
+      <p>Fill in your startup details on the left and click <strong>Generate Blueprint</strong> to get started.</p>
+      <div style="margin-top:16px;display:flex;flex-direction:column;gap:8px;text-align:left;width:100%;max-width:360px;">
+        <div style="display:flex;align-items:center;gap:8px;font-size:0.82rem;color:var(--muted);">
+          <span style="color:var(--accent)">✓</span> 18 comprehensive sections
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;font-size:0.82rem;color:var(--muted);">
+          <span style="color:var(--accent)">✓</span> IBM Granite-powered analysis
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;font-size:0.82rem;color:var(--muted);">
+          <span style="color:var(--accent)">✓</span> RAG-grounded with real knowledge base
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;font-size:0.82rem;color:var(--muted);">
+          <span style="color:var(--accent)">✓</span> Clearly labelled facts, estimates & assumptions
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;font-size:0.82rem;color:var(--muted);">
+          <span style="color:var(--accent)">✓</span> Startup Readiness Score
+        </div>
+      </div>
+    </div>
+
+    <!-- Results Area -->
+    <div id="results-area" class="results-area">
+
+      <!-- Score Card -->
+      <div class="score-card">
+        <div class="score-overall" id="score-overall">—</div>
+        <div class="score-label">Startup Readiness Score / 100</div>
+        <div class="score-grid" id="score-grid"></div>
+      </div>
+
+      <!-- Label Legend -->
+      <div id="label-legend" class="label-legend"></div>
+
+      <!-- Blueprint Section Viewer -->
+      <div class="card">
+        <div class="card-header">
+          <div class="icon icon-blue">📄</div>
+          <h2>Blueprint Sections</h2>
+          <button id="btn-full-blueprint" class="btn-full" style="margin-left:auto;">
+            📋 View Full Blueprint
+          </button>
+        </div>
+        <div class="card-body">
+          <div id="section-tabs" class="section-tabs"></div>
+          <div id="blueprint-content" class="blueprint-content"></div>
+        </div>
+      </div>
+
+    </div>
+    <!-- /results-area -->
+
+  </div>
+  <!-- /right col -->
+
+</div>
+<!-- /main-layout -->
+
+<!-- ── Footer ─────────────────────────────────────────── -->
+<footer>
+  <p>
+    StartupGenie – AI Startup Blueprint Generator &nbsp;|&nbsp;
+    Powered by <a href="https://www.ibm.com/products/watsonx-ai" target="_blank">IBM Granite (watsonx.ai)</a>
+    &nbsp;&amp;&nbsp; RAG
+    &nbsp;|&nbsp; Built as an Internship Project
+  </p>
+</footer>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+STARTUP BUDGET AND FINANCIAL PLANNING – KNOWLEDGE BASE
+========================================================
+
+## Startup Budget Categories
+
+### Technology / Product Development
+- MVP (Minimum Viable Product) development cost ranges:
+  - No-code MVP (Bubble, Webflow): INR 0 – 50,000
+  - Simple web app MVP: INR 1 lakh – 5 lakh
+  - Complex web/mobile app MVP: INR 5 lakh – 30 lakh
+  - Enterprise-grade platform: INR 30 lakh – 2 crore+
+- Annual cloud infrastructure cost (AWS/Azure/GCP):
+  - Early stage (< 1,000 users): INR 10,000 – 1 lakh/year
+  - Growth stage (10,000–100,000 users): INR 1 lakh – 10 lakh/year
+  - Scale stage (1M+ users): INR 10 lakh – 1 crore+/year
+- Domain and hosting: INR 1,000 – 10,000/year
+- Software licenses and tools: INR 50,000 – 5 lakh/year
+
+### Team / Human Resources
+- Average salaries in India (2024):
+  - Full-stack developer (0–2 years): INR 4 lakh – 8 lakh/year
+  - Full-stack developer (2–5 years): INR 8 lakh – 18 lakh/year
+  - Product manager: INR 10 lakh – 25 lakh/year
+  - UX/UI designer: INR 5 lakh – 15 lakh/year
+  - Marketing executive: INR 3 lakh – 8 lakh/year
+  - Sales executive: INR 3 lakh – 6 lakh + commission
+  - Data scientist: INR 8 lakh – 20 lakh/year
+  - CTO (startup): INR 20 lakh – 60 lakh/year (or equity)
+- Freelancer rates:
+  - Developer: INR 500 – 3,000/hour
+  - Designer: INR 400 – 2,000/hour
+  - Content writer: INR 1 – 5/word
+
+### Office and Operations
+- Co-working space (major metros – Mumbai, Bangalore, Delhi):
+  - Hot desk: INR 5,000 – 15,000/month/person
+  - Dedicated desk: INR 8,000 – 20,000/month/person
+  - Private cabin: INR 20,000 – 60,000/month
+- Own office (Tier 1 city):
+  - Rent: INR 50 – 150 per sq ft/month
+  - Security deposit: 6–12 months rent
+- Utilities (electricity, internet, water): INR 5,000 – 20,000/month for small office.
+- Office equipment (computers, furniture): INR 50,000 – 3 lakh initial investment.
+
+### Marketing and Customer Acquisition
+- Digital marketing:
+  - Google Ads CPC: INR 10 – 200 (varies widely by industry)
+  - Meta Ads CPM: INR 50 – 500
+  - LinkedIn Ads CPC: INR 150 – 600
+  - SEO agency: INR 15,000 – 60,000/month
+  - Social media management: INR 10,000 – 40,000/month
+- Offline marketing:
+  - Pamphlets/flyers: INR 2,000 – 10,000 per run
+  - Events/expos: INR 50,000 – 5 lakh per event
+  - PR agency: INR 30,000 – 1 lakh/month
+- Brand identity (logo + guidelines): INR 10,000 – 1 lakh
+
+### Legal and Professional
+- Company incorporation: INR 5,000 – 15,000 (government fees + CA)
+- GST registration: INR 0 – 2,000
+- Trademark registration: INR 4,500 – 9,000 per class
+- Patent filing: INR 1,750 – 8,800 (startup rate after 80% rebate)
+- Annual compliance (CA): INR 30,000 – 1.5 lakh/year
+- Legal consultation: INR 3,000 – 10,000/hour (lawyer)
+
+## Bootstrapping Budget Estimates by Stage
+
+### Idea Stage (INR 0 – 5 lakh)
+- Laptop and basic tools.
+- Domain, hosting.
+- Market research tools.
+- Initial prototype (no-code or self-built).
+
+### Pre-seed/MVP Stage (INR 5 lakh – 30 lakh)
+- MVP development.
+- Small team (1–3 people) or freelancers.
+- Minimal marketing for early user feedback.
+- Company incorporation and basic legal.
+
+### Seed Stage (INR 30 lakh – 2 crore)
+- Full team hiring (5–15 people).
+- Product scaling post-MVP.
+- Initial paid marketing.
+- Office space.
+- Working capital.
+
+### Series A (INR 2 crore – 20 crore)
+- Large team (15–50 people).
+- Multi-channel marketing.
+- Enterprise infrastructure.
+- Expansion to new geographies.
+
+## Financial Metrics Benchmarks
+
+### SaaS Startups
+- Magic Number (Sales efficiency): Target > 0.75.
+- Rule of 40: Revenue growth % + EBITDA margin % > 40%.
+- Gross Revenue Retention (GRR): > 90% best-in-class.
+- Net Revenue Retention (NRR): > 110% (expansion revenue).
+- ARR per FTE: INR 25 lakh+ for early stage.
+
+### E-Commerce / D2C
+- Gross Margin: 40–60%.
+- Repeat Purchase Rate: > 30% within 90 days.
+- Return Rate: < 15%.
+- CAC:LTV ratio: 1:3 or better.
+
+### Marketplace
+- Take Rate: 10–25%.
+- GMV growth: > 100% YoY in early stages.
+- Liquidity: Fill rate (% of demand fulfilled by supply) > 70%.
+
+## 3-Year Financial Projection Template
+
+### Year 1
+- Focus: MVP launch, first 100 customers, product-market fit validation.
+- Typical Revenue: INR 5 lakh – 50 lakh (depends on model).
+- Burn Rate: INR 3 lakh – 15 lakh/month.
+- Key Milestone: First paying customers, break-even on unit economics.
+
+### Year 2
+- Focus: Growth, marketing, team expansion.
+- Typical Revenue: 5–10x Year 1.
+- Burn Rate: INR 10 lakh – 50 lakh/month.
+- Key Milestone: Series A funding, 1,000+ customers.
+
+### Year 3
+- Focus: Market expansion, operational efficiency, profitability path.
+- Typical Revenue: 3–5x Year 2.
+- Key Milestone: Path to EBITDA break-even.
